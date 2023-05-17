@@ -1,11 +1,8 @@
 {
   "name": "3dfolio",
-  "homepage": "https://Ganpat6070.github.io/Ganpat_Portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run dev",
-    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
